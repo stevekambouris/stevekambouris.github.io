@@ -5,11 +5,9 @@ toc: true
 
 ### Articles
 
-- Quintero, Rodríguez‐Sánchez, Jordano (2022) [Reciprocity and interaction effectiveness in generalised mutualisms among free‐living species](https://doi.org/10.1111/ele.14141). *Ecology Letters* 26 (1): 132-146. [[PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.14141)]
+- Kambouris S, Wilkinson DP, Smith ET, Fidler F (2024) Computationally reproducing results from meta-analyses in ecology and evolutionary biology using shared code and data. _PLOS ONE_ 19(3): e0300333. <https://doi.org/10.1371/journal.pone.0300333>
 
-- Rodríguez-Sanchez, Pérez-Luque, Bartomeus, Varela (2016) [Ciencia reproducible: ¿qué, por qué, cómo?](https://doi.org/10.7818/ECOS.2016.25-2.11). *Ecosistemas* 25 (2): 83-92
+- Bonnie C. Wintle, Eden T. Smith, Martin Bush, Fallon Mody, David P. Wilkinson, Anca M. Hanea, Alexandru Marcoci, Hannah Fraser, Victoria Hemming, Felix Singleton Thorn, Marissa F. McBride, Elliot Gould, Andrew Head, Daniel G. Hamilton, Steven Kambouris, Libby Rumpff, Rink Hoekstra, Mark A. Burgman, Fiona Fidler (2023) Predicting and reasoning about replicability using structured groups. _Royal Society Open Science_ 10(6): 221553. <https://doi.org/10.1098/rsos.221553>
 
-### Book chapters
-
-
-
+- Fidler F, Singleton Thorn F, Barnett A, Kambouris S, Kruger A (2018) The Epistemic Importance of Establishing the Absence of an Effect. _Advances in Methods and Practices in Psychological Science_ 1(2): 237-244. <https://doi.org/10.1177/2515245918770407>
+  

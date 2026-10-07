@@ -17,4 +17,4 @@ about:
       href: https://orcid.org/0000-0002-3876-7472
 ---
 
-I am a Senior Research Fellow at the (https://acer.org/)[Australian Council for Educational Research]. I earned my PhD in History and Philosophy of Science at The University of Melbourne, where I was a member of the (https://www.metamelb.org/)[MetaMelb research group].
+I am a Senior Research Fellow at the [Australian Council for Educational Research](https://acer.org/). I earned my PhD in History and Philosophy of Science at The University of Melbourne, where I was a member of the [MetaMelb research group](https://www.metamelb.org/).
