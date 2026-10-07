@@ -1,46 +1,20 @@
 ---
-title: "Finley Malloc"
+title: "Steven Kambouris"
 about:
   template: trestles
   image: avatar.jpg
   links:
     - icon: envelope
       # text: email
-      href: "mailto: test@example.com"
-    - icon: mastodon
-      href: https://joinmastodon.org
+      href: "mailto: steve_research |AT| fastmail.com"
     - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
-      href: https://bsky.app
-    - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
-      href: https://x.com
+      href: https://bsky.app/profile/steve-kambouris.bsky.social
     - icon: github
-      href: https://github.com
+      href: https://github.com/stevekambouris
     - icon: linkedin
-      href: https://linkedin.com/
-    - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
-      href: https://scholar.google.com
+      href: https://www.linkedin.com/in/steven-kambouris-91b415367/
     - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
-      href: https://orcid.org/
-    # - icon: twitter
-    #   text: twitter
-    #   href: https://twitter.com
-    # - icon: github
-    #   text: Github
-    #   href: https://github.com
+      href: https://orcid.org/0000-0002-3876-7472
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
-
-## Education
-
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+I am a Senior Research Fellow at the (https://acer.org/)[Australian Council for Educational Research]. I earned my PhD in History and Philosophy of Science at The University of Melbourne, where I was a member of the (https://www.metamelb.org/)[MetaMelb research group].
