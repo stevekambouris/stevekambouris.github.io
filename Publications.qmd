@@ -5,9 +5,8 @@ toc: true
 
 ### Articles
 
-- Kambouris S, Wilkinson DP, Smith ET, Fidler F (2024) Computationally reproducing results from meta-analyses in ecology and evolutionary biology using shared code and data. _PLOS ONE_ 19(3): e0300333. <https://doi.org/10.1371/journal.pone.0300333>
+- Kambouris S, Wilkinson DP, Smith ET, Fidler F (2024) [Computationally reproducing results from meta-analyses in ecology and evolutionary biology using shared code and data](https://doi.org/10.1371/journal.pone.0300333). _PLOS ONE_ 19(3): e0300333. <https://doi.org/10.1371/journal.pone.0300333>
 
-- Bonnie C. Wintle, Eden T. Smith, Martin Bush, Fallon Mody, David P. Wilkinson, Anca M. Hanea, Alexandru Marcoci, Hannah Fraser, Victoria Hemming, Felix Singleton Thorn, Marissa F. McBride, Elliot Gould, Andrew Head, Daniel G. Hamilton, Steven Kambouris, Libby Rumpff, Rink Hoekstra, Mark A. Burgman, Fiona Fidler (2023) Predicting and reasoning about replicability using structured groups. _Royal Society Open Science_ 10(6): 221553. <https://doi.org/10.1098/rsos.221553>
+- Bonnie C. Wintle, Eden T. Smith, Martin Bush, Fallon Mody, David P. Wilkinson, Anca M. Hanea, Alexandru Marcoci, Hannah Fraser, Victoria Hemming, Felix Singleton Thorn, Marissa F. McBride, Elliot Gould, Andrew Head, Daniel G. Hamilton, Steven Kambouris, Libby Rumpff, Rink Hoekstra, Mark A. Burgman, Fiona Fidler (2023) [Predicting and reasoning about replicability using structured groups](https://doi.org/10.1098/rsos.221553). _Royal Society Open Science_ 10(6): 221553. <https://doi.org/10.1098/rsos.221553>
 
-- Fidler F, Singleton Thorn F, Barnett A, Kambouris S, Kruger A (2018) The Epistemic Importance of Establishing the Absence of an Effect. _Advances in Methods and Practices in Psychological Science_ 1(2): 237-244. <https://doi.org/10.1177/2515245918770407>
-  
+- Fidler F, Singleton Thorn F, Barnett A, Kambouris S, Kruger A (2018) [The Epistemic Importance of Establishing the Absence of an Effect](https://doi.org/10.1177/2515245918770407). _Advances in Methods and Practices in Psychological Science_ 1(2): 237-244. <https://doi.org/10.1177/2515245918770407>

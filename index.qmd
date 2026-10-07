@@ -6,7 +6,7 @@ about:
   links:
     - icon: envelope
       # text: email
-      href: "mailto: steve_research |AT| fastmail.com"
+      href: "mailto: steve_research [at] fastmail [dot] com"
     - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
       href: https://bsky.app/profile/steve-kambouris.bsky.social
     - icon: github

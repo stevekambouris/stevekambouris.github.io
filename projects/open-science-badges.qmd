@@ -1,0 +1,10 @@
+---
+title: "Open Science Badges"
+image: badges_stacked_resaved.jpg
+# categories: 
+#   - metaresearch
+---
+
+![](badges_stacked_resaved.jpg)
+
+Open Science Badges are an [initiative of the Center for Open Science](https://www.cos.io/initiatives/badges).

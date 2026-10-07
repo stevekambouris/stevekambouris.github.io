@@ -1,0 +1,10 @@
+---
+title: "Hello World"
+description: "A test post."
+author: "Steven Kambouris"
+date: "2026-10-08"
+categories:
+  - misc
+---
+
+Hello world! This is a test post to check that the blog is working.

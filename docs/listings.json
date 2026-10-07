@@ -2,15 +2,13 @@
   {
     "listing": "/Blog.html",
     "items": [
-      "/posts/another-post.html",
-      "/posts/new-post.html"
+      "/posts/hello-world.html"
     ]
   },
   {
     "listing": "/Projects.html",
     "items": [
-      "/projects/computational-ecology.html",
-      "/projects/contemplative-ecology.html"
+      "/projects/open-science-badges.html"
     ]
   }
 ]

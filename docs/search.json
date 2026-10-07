@@ -7,11 +7,11 @@
     "text": "Articles\n\nKambouris S, Wilkinson DP, Smith ET, Fidler F (2024) Computationally reproducing results from meta-analyses in ecology and evolutionary biology using shared code and data. PLOS ONE 19(3): e0300333. https://doi.org/10.1371/journal.pone.0300333\nBonnie C. Wintle, Eden T. Smith, Martin Bush, Fallon Mody, David P. Wilkinson, Anca M. Hanea, Alexandru Marcoci, Hannah Fraser, Victoria Hemming, Felix Singleton Thorn, Marissa F. McBride, Elliot Gould, Andrew Head, Daniel G. Hamilton, Steven Kambouris, Libby Rumpff, Rink Hoekstra, Mark A. Burgman, Fiona Fidler (2023) Predicting and reasoning about replicability using structured groups. Royal Society Open Science 10(6): 221553. https://doi.org/10.1098/rsos.221553\nFidler F, Singleton Thorn F, Barnett A, Kambouris S, Kruger A (2018) The Epistemic Importance of Establishing the Absence of an Effect. Advances in Methods and Practices in Psychological Science 1(2): 237-244. https://doi.org/10.1177/2515245918770407"
   },
   {
-    "objectID": "projects/contemplative-ecology.html",
-    "href": "projects/contemplative-ecology.html",
-    "title": "Contemplative Ecology",
+    "objectID": "projects/open-science-badges.html",
+    "href": "projects/open-science-badges.html",
+    "title": "Open Science Badges",
     "section": "",
-    "text": "Learning about the natural world just by contemplating it"
+    "text": "Open Science Badges are an initiative of the Center for Open Science."
   },
   {
     "objectID": "index.html",
@@ -25,20 +25,20 @@
     "href": "Blog.html",
     "title": "Blog",
     "section": "",
-    "text": "The value of contemplative ecology\n\n\n\ncontemplative\n\n\n\nSome thoughts about it\n\n\n\n\n\nOct 21, 2024\n\n\nJohn Doe\n\n\n\n\n\n\n\n\n\n\n\n\nThe value of computational ecology\n\n\n\ncomputational\n\n\n\nSome thoughts about it\n\n\n\n\n\nOct 20, 2024\n\n\nJohn Doe\n\n\n\n\n\nNo matching items"
+    "text": "Hello World\n\n\n\nmisc\n\n\n\nA test post.\n\n\n\n\n\nOct 8, 2026\n\n\nSteven Kambouris\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/computational-ecology.html",
-    "href": "projects/computational-ecology.html",
-    "title": "Computational Ecology",
+    "objectID": "posts/hello-world.html",
+    "href": "posts/hello-world.html",
+    "title": "Hello World",
     "section": "",
-    "text": "A computational approach to tough questions in ecology"
+    "text": "Hello world! This is a test post to check that the blog is working."
   },
   {
     "objectID": "Projects.html",
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Computational Ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContemplative Ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Open Science Badges\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
