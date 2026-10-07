@@ -4,5 +4,6 @@
 .Ruserdata
 /.quarto/
 .httr-oauth
-/docs/
 /_site/
+
+**/*.quarto_ipynb
