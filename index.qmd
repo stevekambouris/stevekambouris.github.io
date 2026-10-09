@@ -2,7 +2,8 @@
 title: "Steven Kambouris"
 about:
   template: trestles
-  image: avatar.jpg
+  image: myphoto.jpg
+  image-shape: round
   links:
     - icon: envelope
       # text: email
